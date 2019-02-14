@@ -1,0 +1,25 @@
+{
+  "name": "Design-pattern",
+  "version": "0.0.1",
+  "description": "常用的设计模式",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuhaohao1234/Design-pattern.git"
+  },
+  "keywords": [],
+  "author": "wuhaohao <1611499758@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuhaohao1234/Design-pattern/issues"
+  },
+  "homepage": "https://github.com/wuhaohao1234/Design-pattern#readme",
+  "devDependencies": {
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  }
+}
